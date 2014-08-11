@@ -1,0 +1,2 @@
+C++入門 
+http://wisdom.sakura.ne.jp/programming/cpp/index.html
